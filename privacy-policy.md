@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Levitus Advertising and Print T/A Levitus built the Love Windsor app as a Commercial app. This SERVICE is provided by Levitus Advertising and Print T/A Levitus and is intended for use as is.
+Love Media Applications built the Love Windsor app as a Commercial app. This SERVICE is provided by Love Media Applications and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -64,4 +64,4 @@ This policy is effective as of 2024-01-10
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at Info@levitus.co.uk.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at Info@lovemediaapps.co.uk.
